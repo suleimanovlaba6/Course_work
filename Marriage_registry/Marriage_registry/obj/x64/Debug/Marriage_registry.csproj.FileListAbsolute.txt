@@ -1,0 +1,24 @@
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая\Курсач, Мигель\AIC\Marriage_registry\Marriage_registry\bin\x64\Debug\Marriage registry.accdb
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая\Курсач, Мигель\AIC\Marriage_registry\Marriage_registry\bin\x64\Debug\Marriage_registry.exe.config
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая\Курсач, Мигель\AIC\Marriage_registry\Marriage_registry\bin\x64\Debug\Marriage_registry.exe
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая\Курсач, Мигель\AIC\Marriage_registry\Marriage_registry\bin\x64\Debug\Marriage_registry.pdb
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая\Курсач, Мигель\AIC\Marriage_registry\Marriage_registry\obj\x64\Debug\Marriage_registry.csproj.AssemblyReference.cache
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая\Курсач, Мигель\AIC\Marriage_registry\Marriage_registry\obj\x64\Debug\Marriage_registry.csproj.SuggestedBindingRedirects.cache
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая\Курсач, Мигель\AIC\Marriage_registry\Marriage_registry\obj\x64\Debug\Marriage_registry.Form1.resources
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая\Курсач, Мигель\AIC\Marriage_registry\Marriage_registry\obj\x64\Debug\Marriage_registry.Properties.Resources.resources
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая\Курсач, Мигель\AIC\Marriage_registry\Marriage_registry\obj\x64\Debug\Marriage_registry.csproj.GenerateResource.cache
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая\Курсач, Мигель\AIC\Marriage_registry\Marriage_registry\obj\x64\Debug\Marriage_registry.csproj.CoreCompileInputs.cache
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая\Курсач, Мигель\AIC\Marriage_registry\Marriage_registry\obj\x64\Debug\Marriage_registry.exe
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая\Курсач, Мигель\AIC\Marriage_registry\Marriage_registry\obj\x64\Debug\Marriage_registry.pdb
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая ОБДЗ\Курсач, Мигель\AIC\Marriage_registry\Marriage_registry\bin\x64\Debug\Marriage registry.accdb
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая ОБДЗ\Курсач, Мигель\AIC\Marriage_registry\Marriage_registry\bin\x64\Debug\Marriage_registry.exe.config
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая ОБДЗ\Курсач, Мигель\AIC\Marriage_registry\Marriage_registry\bin\x64\Debug\Marriage_registry.exe
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая ОБДЗ\Курсач, Мигель\AIC\Marriage_registry\Marriage_registry\bin\x64\Debug\Marriage_registry.pdb
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая ОБДЗ\Курсач, Мигель\AIC\Marriage_registry\Marriage_registry\obj\x64\Debug\Marriage_registry.csproj.AssemblyReference.cache
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая ОБДЗ\Курсач, Мигель\AIC\Marriage_registry\Marriage_registry\obj\x64\Debug\Marriage_registry.csproj.SuggestedBindingRedirects.cache
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая ОБДЗ\Курсач, Мигель\AIC\Marriage_registry\Marriage_registry\obj\x64\Debug\Marriage_registry.Form1.resources
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая ОБДЗ\Курсач, Мигель\AIC\Marriage_registry\Marriage_registry\obj\x64\Debug\Marriage_registry.Properties.Resources.resources
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая ОБДЗ\Курсач, Мигель\AIC\Marriage_registry\Marriage_registry\obj\x64\Debug\Marriage_registry.csproj.GenerateResource.cache
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая ОБДЗ\Курсач, Мигель\AIC\Marriage_registry\Marriage_registry\obj\x64\Debug\Marriage_registry.csproj.CoreCompileInputs.cache
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая ОБДЗ\Курсач, Мигель\AIC\Marriage_registry\Marriage_registry\obj\x64\Debug\Marriage_registry.exe
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая ОБДЗ\Курсач, Мигель\AIC\Marriage_registry\Marriage_registry\obj\x64\Debug\Marriage_registry.pdb

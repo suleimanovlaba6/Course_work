@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marriage_registry", "Marriage_registry\Marriage_registry.csproj", "{4F7A494B-1F26-40D6-9F03-D369CAE0A32C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F7A494B-1F26-40D6-9F03-D369CAE0A32C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7A494B-1F26-40D6-9F03-D369CAE0A32C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7A494B-1F26-40D6-9F03-D369CAE0A32C}.Debug|x64.ActiveCfg = Debug|x64
+		{4F7A494B-1F26-40D6-9F03-D369CAE0A32C}.Debug|x64.Build.0 = Debug|x64
+		{4F7A494B-1F26-40D6-9F03-D369CAE0A32C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7A494B-1F26-40D6-9F03-D369CAE0A32C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F7A494B-1F26-40D6-9F03-D369CAE0A32C}.Release|x64.ActiveCfg = Release|x64
+		{4F7A494B-1F26-40D6-9F03-D369CAE0A32C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73A37ED1-0EED-4F6D-BF4C-C50CA49BB442}
+	EndGlobalSection
+EndGlobal
